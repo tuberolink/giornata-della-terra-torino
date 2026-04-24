@@ -8,7 +8,7 @@ function setup() {
   document.body.style.margin = "0";
   document.body.style.height = "100vh";
 
-  audioPlayer = createAudio('assets/tono2.mp3');
+  audioPlayer = createAudio('assets/CAOS.mp3');
 
   audioPlayer.attribute(
     'aria-description',
